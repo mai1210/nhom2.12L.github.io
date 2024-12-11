@@ -1,6 +1,5 @@
 # nhom2.12L.github.io
-  
-<html lang="vi">
+  <html lang="vi">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,44 +7,85 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            line-height: 1.6;
+            background-color: #f9f9f9;
+            margin: 0;
+            padding: 0;
         }
-        h1 {
-            color: red;
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px 10px;
+            text-align: center;
+        }
+        .logan {
+            font-size: 1.5em;
+            color: #333;
+            margin: 20px auto;
+            text-align: center;
+            font-weight: bold;
+        }
+        .container {
+            width: 90%;
+            margin: 0 auto;
         }
         table {
             width: 100%;
             border-collapse: collapse;
-        }
-        table, th, td {
-            border: 1px solid black;
+            margin: 20px 0;
+            background-color: white;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
         }
         th, td {
-            padding: 8px;
+            padding: 10px;
             text-align: left;
+            border: 1px solid #ddd;
+        }
+        th {
+            background-color: #4CAF50;
+            color: white;
+        }
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
         }
         caption {
-            font-weight: bold;
+            font-size: 1.2em;
             margin-bottom: 10px;
+            font-weight: bold;
+            color: #555;
+        }
+        a {
+            color: #4CAF50;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 20px;
         }
     </style>
 </head>
-<body>  
-    <header>
-        <p>Logan của chúng tớ là:</p>
-        <h1>
-            <div class="logan">
-                <strong>Cuộc sống chỉ cho ta 10% cơ hội, 90% còn lại là do chúng ta trải nghiệm thế nào với nó.</strong>
-            </div>
-        </h1>
-    </header>
+<body>
 
+<header>
+    <h1>Chào mừng mọi người đến với nhóm 2</h1>
+</header>
+
+<div class="logan">
+    "Cuộc sống chỉ cho ta 10% cơ hội, 90% còn lại là do chúng ta trải nghiệm thế nào với nó."
+</div>
+
+<div class="container">
     <div>
-        <h1>Các thành viên nhóm 2</h1>
+        <h2>Các thành viên nhóm 2</h2>
     </div>
 
     <table>
-        <caption>Danh sách thành viên</caption> 
+        <caption>Danh sách thành viên</caption>
         <thead>
             <tr>
                 <th>Họ và tên</th>
@@ -81,10 +121,11 @@
             </tr>
         </tbody>
     </table>
+</div>
 
-    <footer>
-        <p><strong>CHÀO MỪNG MỌI NGƯỜI ĐẾN VỚI NHÓM 2</strong></p>
-       
-    </footer>
-</body>  
+<footer>
+    &copy; 2024 Nhóm 2 - Mọi quyền được bảo lưu.
+</footer>
+
+</body>
 </html>
