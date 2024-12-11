@@ -74,7 +74,7 @@
 <header>
     <h1>Chào mừng mọi người đến với nhóm 2</h1>
 </header>
-
+<p><strong>Logan của nhóm 2 là:</strong></p>
 <div class="logan">
     "Cuộc sống chỉ cho ta 10% cơ hội, 90% còn lại là do chúng ta trải nghiệm thế nào với nó."
 </div>
