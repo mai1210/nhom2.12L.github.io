@@ -122,10 +122,8 @@
         </tbody>
     </table>
 </div>
-
-<footer>
-    &copy; 2024 Nhóm 2 - Mọi quyền được bảo lưu.
-</footer>
+<p><strong>Link canva luyện tập - vận dụng chủ đề 4:</strong></p>
+<p><a href="https://www.canva.com/design/DAGWUroCPRw/ZP-bIm_3tR4j89o0AFxTkA/edit?utm_content=DAGWUroCPRw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> link canva luyện tập-vận dụng chủ đề 4</a></p>
 
 </body>
 </html>
