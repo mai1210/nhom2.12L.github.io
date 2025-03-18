@@ -124,6 +124,8 @@
 </div>
 <p><strong>Link canva luyện tập - vận dụng chủ đề 4:</strong></p>
 <p><a href="https://www.canva.com/design/DAGWUroCPRw/ZP-bIm_3tR4j89o0AFxTkA/edit?utm_content=DAGWUroCPRw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> link canva luyện tập-vận dụng chủ đề 4</a></p>
+<p><strong>Link canva web ẩm thực và tổng hợp canva, bài tập</strong></p>
+<p><a href="https://mai1210.github.io/BAI-16-17-18/"> link canva luyện tập-vận dụng chủ đề 4</a></p>
 
 </body>
 </html>
